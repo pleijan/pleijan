@@ -1,4 +1,4 @@
-### Salut tout le monde, Moi c'est Tom
+### Salut tout le monde, Moi c'est Tom (pleijan)
 
 ## Je suis etudiant en informatique !
 - je possede un DUT en informatique (france)
