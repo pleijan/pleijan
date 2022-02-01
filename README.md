@@ -1,6 +1,6 @@
-### Salut tout le monde, Moi c'est Tom (pleijan)
+## Salut tout le monde, Moi c'est Tom (pleijan)
 
-## Je suis etudiant en informatique !
+### Je suis etudiant en informatique !
 - je possede un DUT en informatique (france)
 - je suis entrain de valider un diplome DUETI a l'UQAC
 
