@@ -11,7 +11,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: pleijan/pleijan@master #PLEASE USE MASTER BRANCH
+      - uses: pleijan/README.md@master #PLEASE USE MASTER BRANCH
         with:
           WAKATIME_API_KEY: 425e7379-9221-4629-b48d-51a93e1befa9
           GH_TOKEN: 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
