@@ -1,3 +1,6 @@
+
+![doctor4t's github stats](https://github-readme-stats.vercel.app/api?username=pleijan&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
+
 ## Salut tout le monde, Moi c'est Tom (pleijan)
 
 ### Je suis etudiant en informatique !
@@ -20,4 +23,3 @@ A VENIR...
 <!--END_SECTION:waka-->
 
 
-![doctor4t's github stats](https://github-readme-stats.vercel.app/api?username=pleijan&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
