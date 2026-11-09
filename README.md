@@ -41,6 +41,14 @@
 	<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git" alt="Git" />
 </p>
 
+## Sujet de recherche 
+
+- Sémantique
+- Identité numérique
+- Blockchain
+- Cybersécurité
+  
+
 ## Statistiques GitHub
 
 <p>
